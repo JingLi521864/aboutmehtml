@@ -26,4 +26,4 @@ The github repo help me to upload assingment and create new assingment which is 
 
 My name is Jing Li, and my major is Computer Science and my minor is Mathematics(calculus).
 
-![vscode image](C:\Users\s521864\Desktop\Web app\aboutme)
+- [vscode image](https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg)
