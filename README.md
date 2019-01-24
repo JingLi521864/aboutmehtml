@@ -3,7 +3,7 @@
 ## Repo Links
 
 - [Webpage](https://github.com/s521864/aboutme)
-- [Source](https://github.com/s521864)
+- [Source](https://github.com/s521864/aboutme)
 
 ## About
 
