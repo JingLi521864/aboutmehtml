@@ -21,6 +21,7 @@ The github repo help me to upload assingment and create new assingment which is 
 
 - [jQuery](https://jquery.com/)
 - [CSS] (https://www.w3schools.com/html/html_css.asp)
+- [Git](https://git-scm.com/)
 
 ## Contributors
 
